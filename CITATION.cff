@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+title: "ZPF-Synthetic-Gravity-Engine: Topological Zero-Point Fluctuation Synthetic Gravity Framework"
+version: 1.0.0
+date-released: 2026-10-08
+url: "https://github.com/Abhishek1033ubuntu/ZPF-Synthetic-Gravity-Engine"
