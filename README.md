@@ -59,5 +59,7 @@ python core_physics/zpf_vacuum_gradient.py
 
 ## Support & Sponsorship
 If you find this research valuable or wish to support the development of advanced space propulsion and synthetic gravity architectures, you can contribute via:
-- **PayPal:** [Donate via PayPal](https://paypal.me/Abhishek1033ubuntu)
-- **GitHub Sponsors:** Click the **Sponsor** button at the top of the repository to back open-source breakthrough physics research.
+| Platform | Link |
+| :--- | :--- |
+| **PayPal** | [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/Abhishek1033ubuntu) |
+| **GitHub Sponsors** | [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa.svg?logo=github)](https://github.com/sponsors/Abhishek1033ubuntu) |
