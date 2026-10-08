@@ -53,6 +53,7 @@ Run the orchestrator or individual scripts within their respective directories u
 ```bash
 pip install -r requirements.txt
 python core_physics/zpf_vacuum_gradient.py
+```
 
 ## Support & Sponsorship
 If you find this research valuable or wish to support the development of advanced space propulsion and synthetic gravity architectures, you can contribute via:
