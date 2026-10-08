@@ -4,6 +4,8 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![Status: Active Research](https://img.shields.io/badge/status-active%20research-success.svg)]()
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/Abhishek1033ubuntu)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23239896-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23239896) 
+[![AI Collaborator: Google Gemini](https://img.shields.io/badge/AI%20Collaborator-Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white)](https://gemini.google.com)  
 
 *First-Principles Framework for Topological Zero-Point Fluctuation (ZPF) Synthetic Gravity Generation in Zero-Gravity Spacecraft Environments.*
 
