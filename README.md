@@ -1,4 +1,10 @@
 # ZPF-Synthetic-Gravity-Engine
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![Status: Active Research](https://img.shields.io/badge/status-active%20research-success.svg)]()
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/Abhishek1033ubuntu)
+
 *First-Principles Framework for Topological Zero-Point Fluctuation (ZPF) Synthetic Gravity Generation in Zero-Gravity Spacecraft Environments.*
 
 ## Overview
@@ -21,10 +27,34 @@ This repository contains the theoretical models, numerical simulations, and mate
 ## System Power Budget
 - **Continuous Load:** ~520 kW (Optimized via spatial volumetric trimming, active localized grid switching, and 0.02% duty cycle pulse compression).
 - **Power Source:** Compact hybrid fission-fusion generation architecture.
-- **Thermal Management:** Managed entirely via passive spacecraft radiator panels.
+- **Thermal Management:** Managed entirely via passive spacecraft radiator panels
+
+## Directory Tree
+
+```
+ZPF-Synthetic-Gravity-Engine/
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── core_physics/
+│   ├── __init__.py
+│   └── zpf_vacuum_gradient.py
+├── spacecraft_hull/
+│   ├── __init__.py
+│   ├── phased_array_diffuser.py
+│   └── kinematics_freefall.py
+└── materials_engine/
+    ├── __init__.py
+    └── na3bi_transport_validation.py
+```
 
 ## Execution
 Run the orchestrator or individual scripts within their respective directories using standard Python 3 environments:
 ```bash
 pip install -r requirements.txt
 python core_physics/zpf_vacuum_gradient.py
+
+## Support & Sponsorship
+If you find this research valuable or wish to support the development of advanced space propulsion and synthetic gravity architectures, you can contribute via:
+- **PayPal:** [Donate via PayPal](https://paypal.me/Abhishek1033ubuntu)
+- **GitHub Sponsors:** Click the **Sponsor** button at the top of the repository to back open-source breakthrough physics research.
