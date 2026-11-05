@@ -144,6 +144,17 @@ This research architecture builds upon foundational physics and peer-reviewed li
     DOI: [10.1013/PhysRevLett.100.207402](https://doi.org/10.1103/PhysRevLett.100.207402) | Publisher: [APS Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.207402)
 
 ---
+
+### Alignment Matrix: How These Papers Map to Repository Code
+
+| Repository Module | Global Literature Reference | Theoretical Connection |
+| --- | --- | --- |
+| **`materials_engine/dirac_semimetal.py`** | Liu et al. (*Science* 2014) & Xiong et al. (*Science* 2015) | Provides experimental Fermi velocity ($v_F \approx 10^6\text{ m/s}$) and linear dispersion parameters for $\text{Na}_3\text{Bi}$. |
+| **`materials_engine/metamaterial_reflector.py`** | Naik et al. (*Adv. Mater.* 2013) & Guler et al. (*AIP APR* 2014) | Establishes Titanium Nitride ($\text{TiN}$) as a CMOS-compatible, refractory plasmonic mirror ($\Gamma = 1.0$) operating at THz bands. |
+| **`core_physics/zpf_field_solver.py`** | Haisch, Rueda & Puthoff (*Phys. Rev. A* 1994) & Landy et al. (*PRL* 2008) | Connects electromagnetic energy density gradients ($\nabla U_{\text{ZPF}}$) with zero-backscatter impedance matching ($Z_{\text{in}} = Z_0$). |
+| **`spacecraft_hull/power_thermal_bus.py`** | Koppens et al. (*Nano Lett.* 2011) | Justifies near-field confinement factors and sub-micron capacitive displacement coupling ($J_D$). |
+
+---
 ## Quickstart & Execution
 
 Run the v2.5.0 master orchestration pipeline or individual sub-system solvers using standard Python 3:
