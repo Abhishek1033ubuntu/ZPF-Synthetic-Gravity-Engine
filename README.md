@@ -104,6 +104,46 @@ UZPF(z < 0) = 0  ==>  Fbackside = - ∫ ∇ UZPF(z < 0) dV = 0.0 N
 
 ---
 
+## International Scientific References & Literature
+
+This research architecture builds upon foundational physics and peer-reviewed literature across topological condensed matter, quantum electrodynamics (QED), plasmonics, and metamaterial impedance matching.
+
+### 1. Topological 3D Dirac Semimetals (Na<sub>3</sub>Bi Physics)
+* **Experimental Discovery of 3D Dirac Semimetal Na<sub>3</sub>Bi:**
+  * Liu, Z. K., et al. (2014). *"Discovery of a Three-Dimensional Topological Dirac Semimetal, Na<sub>3</sub>Bi"*. **Science**, 343(6173), 864–867.  
+    DOI: [10.1126/science.1245085](https://doi.org/10.1126/science.1245085) | Publisher: [AAAS Science](https://www.science.org/doi/10.1126/science.1245085)
+* **Bulk Dirac Fermions & Ultra-High Mobility:**
+  * Xiong, J., et al. (2015). *"Evidence for the chiral anomaly in the Dirac semimetal Na<sub>3</sub>Bi"*. **Science**, 350(6259), 413–416.  
+    DOI: [10.1126/science.aac6089](https://doi.org/10.1126/science.aac6089) | Publisher: [AAAS Science](https://www.science.org/doi/10.1126/science.aac6089)
+
+### 2. Quantum Vacuum Energy & Zero-Point Fluctuation (ZPF) Physics
+* **Quantum Vacuum Electrodynamics Foundations:**
+  * Milonni, P. W. (1994). *"The Quantum Vacuum: An Introduction to Quantum Electrodynamics"*. **Academic Press**.  
+    Source: [Elsevier ScienceDirect](https://www.sciencedirect.com/book/9780124980808/the-quantum-vacuum)
+* **ZPF Electromagnetic Vacuum Stress-Energy Tensor:**
+  * Haisch, B., Rueda, A., & Puthoff, H. E. (1994). *"Inertia as a zero-point-field Lorentz force"*. **Physical Review A**, 49(2), 678–694.  
+    DOI: [10.1103/PhysRevA.49.678](https://doi.org/10.1103/PhysRevA.49.678) | Publisher: [APS Physical Review A](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.49.678)
+* **Experimental Precision Measurement of Vacuum Forces:**
+  * Lamoreaux, S. K. (1997). *"Demonstration of the Casimir Force in the 0.6 to 6 μm Range"*. **Physical Review Letters**, 78(1), 5–8.  
+    DOI: [10.1103/PhysRevLett.78.5](https://doi.org/10.1103/PhysRevLett.78.5) | Publisher: [APS Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.78.5)
+
+### 3. Refractory Metamaterials & Back-Reflector Shielding (TiN/SiO<sub>2</sub>)
+* **Alternative Plasmonic Materials & Refractory Titanium Nitride:**
+  * Naik, G. V., Shalaev, V. M., & Boltasseva, A. (2013). *"Alternative Plasmonic Materials: Beyond Gold and Silver"*. **Advanced Materials**, 25(24), 3264–3294.  
+    DOI: [10.1002/adma.201205076](https://doi.org/10.1002/adma.201205076) | Publisher: [Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/adma.201205076)
+* **High-Temperature Refractory Plasmonic Thin Films:**
+  * Guler, U., Naik, G. V., Boltasseva, A., Shalaev, V. M., & Kildishev, A. V. (2014). *"Nitride-Based Refractory Plasmonics"*. **Applied Physics Reviews**, 1(3), 031104.  
+    DOI: [10.1063/1.4892078](https://doi.org/10.1063/1.4892078) | Publisher: [AIP Publishing](https://pubs.aip.org/aip/apr/article/1/3/031104/899120)
+
+### 4. Terahertz Plasmonics & Surface Impedance Matching
+* **Strong Light-Matter Coupling in Dirac Electron Gases:**
+  * Koppens, F. H. L., Chang, D. E., & García de Abajo, F. J. (2011). *"Graphene Plasmonics: A Platform for Strong Light-Matter Interactions"*. **Nano Letters**, 11(8), 3370–3377.  
+    DOI: [10.1021/nl201771h](https://doi.org/10.1021/nl201771h) | Publisher: [ACS Publications](https://pubs.acs.org/doi/10.1021/nl201771h)
+* **Perfect Metamaterial Absorbers & Zero Surface Back-Reflection:**
+  * Landy, N. I., Sajuyigbe, S., Mock, J. J., Smith, D. R., & Padilla, W. J. (2008). *"Perfect Metamaterial Absorber"*. **Physical Review Letters**, 100(20), 207402.  
+    DOI: [10.1013/PhysRevLett.100.207402](https://doi.org/10.1103/PhysRevLett.100.207402) | Publisher: [APS Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.207402)
+
+---
 ## Quickstart & Execution
 
 Run the v2.5.0 master orchestration pipeline or individual sub-system solvers using standard Python 3:
