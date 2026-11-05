@@ -5,7 +5,7 @@
 [![Status: Active Research](https://img.shields.io/badge/status-v2.5.0%20active%20research-success.svg)]()
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/Abhishek1033ubuntu)
 [![AI Collaborator: Google Gemini](https://img.shields.io/badge/AI%20Collaborator-Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white)](https://gemini.google.com)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23974328-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23974328)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23987262-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23987262)    
 
 > *First-Principles Framework for Topological Zero-Point Fluctuation (ZPF) Synthetic Gravity Generation in Spacecraft Environments via Non-Contact Capacitive Drive & Metamaterial Back-Reflector Shielding.*
 
