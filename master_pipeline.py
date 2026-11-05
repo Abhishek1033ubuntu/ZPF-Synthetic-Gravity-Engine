@@ -5,7 +5,7 @@ from spacecraft_hull.power_thermal_bus import SpacecraftPowerThermalBus
 
 def run_v2_master_pipeline():
     print("==================================================================")
-    print("  ZPF SYNTHETIC GRAVITY ENGINE: MASTER v2.0.0 VERIFICATION PIPELINE  ")
+    print("  ZPF SYNTHETIC GRAVITY ENGINE: MASTER v2.0.0 VERIFICATION PIPELINE ")
     print("==================================================================")
     
     # 1. Core Physics & Field Integration
