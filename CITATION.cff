@@ -1,10 +1,22 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-type: software
+message: "If you use this software, please cite it using the metadata from this file."
+title: "ZPF Synthetic Gravity Engine: v2.0.0 Non-Contact Drive Architecture"
 authors:
   - family-names: "Singh"
     given-names: "Abhishek"
-title: "ZPF-Synthetic-Gravity-Engine: Topological Zero-Point Fluctuation Synthetic Gravity Framework"
-version: 1.0.0
-date-released: 2026-10-08
+version: "2.0.0"
+doi: "10.5281/zenodo.23239896"
+date-released: "2026-11-05"
+repository-code: "https://github.com/Abhishek1033ubuntu/ZPF-Synthetic-Gravity-Engine"
 url: "https://github.com/Abhishek1033ubuntu/ZPF-Synthetic-Gravity-Engine"
+license: "MIT"
+keywords:
+  - "synthetic-gravity"
+  - "zpf-vacuum"
+  - "dirac-semimetals"
+  - "capacitive-drive"
+  - "space-propulsion"
+  - "topological-semimetals"
+  - "quantum-field-theory"
+  - "non-contact-coupling"
+abstract: "First-principles simulation framework for topological Zero-Point Fluctuation (ZPF) synthetic gravity generation via near-field capacitive displacement coupling and magneto-plasmonic non-reflective impedance matching."
