@@ -130,9 +130,9 @@ python spacecraft_hull/power_thermal_bus.py
 If you find this research valuable or wish to support the development of advanced space propulsion and synthetic gravity architectures, you can contribute via:
 
 | Platform | Link |
-| --- | --- |
-| **PayPal** | [](https://www.paypal.me/Abhishek1033ubuntu) |
-| **GitHub Sponsors** | [](https://github.com/sponsors/Abhishek1033ubuntu) |
+| :--- | :--- |
+| **PayPal** | [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/Abhishek1033ubuntu) |
+| **GitHub Sponsors** | [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa.svg?logo=github)](https://github.com/sponsors/Abhishek1033ubuntu) |
 
 ---
 
@@ -150,9 +150,4 @@ Distributed under the MIT License. See `LICENSE` for details.
   howpublished = {\url{[https://github.com/Abhishek1033ubuntu/ZPF-Synthetic-Gravity-Engine](https://github.com/Abhishek1033ubuntu/ZPF-Synthetic-Gravity-Engine)}},
   doi          = {10.5281/zenodo.23239896}
 }
-
-```
-
-```
-
 ```
