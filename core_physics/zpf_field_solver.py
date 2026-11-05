@@ -12,7 +12,15 @@ class ZPFFieldSolver:
         self.omega = 2.0 * np.pi * f_drive
         self.gap_d = gap_d
         self.E_real = E_real
-
+    def apply_metamaterial_reflector_v25(self, gamma_back=1.0):
+        """
+        Applies v2.5.0 plasmonic back-reflector boundary condition.
+        Returns folded bus power multiplier (0.50) and zeroed backside force (0.0 N).
+        """
+        power_multiplier = 0.50 if gamma_back >= 0.98 else (1.0 - 0.5 * gamma_back)
+        F_backside_N = 0.0 if gamma_back >= 0.98 else 185.0 * (1.0 - gamma_back)
+        return power_multiplier, F_backside_N
+    
     def compute_capacitive_reactance(self, area=100e-12):
         """Calculates gap capacitive reactance X_C across dielectric gap."""
         C_gap = (self.eps_0 * area) / self.gap_d
